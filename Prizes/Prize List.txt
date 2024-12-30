@@ -1,0 +1,10 @@
+CTF:
+	1. Top 3 Challenge Coin, Trophy
+	2. Top 15 Challenge Coin (Top 16 as we had a tie for 14, 15, 16, will all be listed at 15th)
+	3. Coins for Sponsor x3 (UW-Stout, Holly (CyROC), Uni-KL)
+	4. Coins for Creators x6 (Liam, Jon, Fletcher, David, Andrew Vu, Andrew Rhode)
+	5. Coins for Organizer x2 (Owen, Peyton)
+Writeup:
+	1. Raspberry Pi 5 8GB - $80
+	2. Raspberry Pi 5 4GB - $60
+	3. Raspberry Pi Nano 2W (Wireless) - $15
