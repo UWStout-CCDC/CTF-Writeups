@@ -38,7 +38,7 @@ We welcome contributions from the community! If you have any suggestions, improv
 
 ## 🌐 LinkedIn Links
 
-### University of Wisconsin-Stout CCDL
+### University of Wisconsin-Stout Hosts
 - [University of Wisconsin-Stout CCDL](https://www.linkedin.com/company/uw-stout-ccdl/posts/?feedView=all)
 - [University of Wisconsin-Stout CyROC](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-management/cybersecurity-research-outreach-center-cyroc)
 
