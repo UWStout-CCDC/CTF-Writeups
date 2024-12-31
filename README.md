@@ -1,4 +1,4 @@
-# University of Wisconsin-Stout & Universiti Kuala Lumpur Capture the Flag (CTF) Competitions
+# University of Wisconsin-Stout Capture the Flag (CTF) Competitions
 
 Welcome to the official repository for the Capture the Flag (CTF) competitions hosted by the University of Wisconsin-Stout CCDL in partnership with CyROC. This repository includes resources, write-ups, and details about our CTF events.
 
