@@ -116,3 +116,24 @@ For real-time assistance, join our [Discord server](https://discord.gg/juQpquV2E
 
 For advisor inquiries, contact:  
 **Email:** braunp9273@my.uwstout.edu
+
+---
+
+## 🌐 LinkedIn Links
+
+### University of Wisconsin-Stout Hosts
+- [University of Wisconsin-Stout CCDL](https://www.linkedin.com/company/uw-stout-ccdl/posts/?feedView=all)
+- [University of Wisconsin-Stout CyROC](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-management/cybersecurity-research-outreach-center-cyroc)
+
+### Organizers
+- [Dr. Holly Yuan](https://www.linkedin.com/in/hollyuan2021/)
+- [Peyton Braun](https://www.linkedin.com/in/peyton-braun/)
+- [Owen Pryga](https://www.linkedin.com/in/owen-pryga/)
+
+### Challenge Creators
+- [Andrew Vu](https://www.linkedin.com/in/thanh-an-vu-448114241/)
+- [Jon Gutzmer](https://www.linkedin.com/in/jonathan-gutzmer/)
+- [Liam Nicholson](https://www.linkedin.com/in/liam-n-1427a1246/)
+- [Andrew Rhode](https://www.linkedin.com/in/andrew-rhode-3597a120a/)
+- [Fletcher Meyer](https://www.linkedin.com/in/fletcher-meyer-b6a2552b6/)
+- [David Tesar](https://www.linkedin.com/in/david2tesar/)
