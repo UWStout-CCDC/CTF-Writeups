@@ -4,7 +4,7 @@ Welcome to the official repository for the Capture the Flag (CTF) competitions h
 
 ## 📂 Repository Structure
 
-- **`Inaugural-UW-Stout-CTF/`**  
+- **[`Inaugural-UW-Stout-CTF/`](https://github.com/UWStout-CCDC/CTF-Writeups/tree/main/Inaugural-UW-Stout-CTF)**  
   Contains all challenge write-ups created by the event organizers, challenge creators, and competition players providing detailed solutions and explanations for each challenge.
 
 <!-- - **`Future-CTF-Events/`**  
