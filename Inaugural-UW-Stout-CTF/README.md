@@ -4,13 +4,13 @@ Welcome to the official repository for the Capture the Flag (CTF) competition ho
 
 ## 📂 Repository Structure
 
-- **`Creator-Writeups/`**  
+- **[`Creator-Writeups/`](https://github.com/UWStout-CCDC/CTF-Writeups/tree/main/Inaugural-UW-Stout-CTF/Creator-Writeups)**  
   Contains official challenge write-ups created by the event organizers, and challenge creators providing detailed solutions and explanations for each challenge.
 
-- **`Prizes/`**  
+- **[`Prizes/`](https://github.com/UWStout-CCDC/CTF-Writeups/tree/main/Inaugural-UW-Stout-CTF/Prizes)**  
   Information about prizes awarded to top performers in both the CTF and the write-up competition.
 
-- **`Writeup-Competition-Submissions/`**  
+- **[`Writeup-Competition-Submissions/`](https://github.com/UWStout-CCDC/CTF-Writeups/tree/main/Inaugural-UW-Stout-CTF/Writeup-Competition-Submissions)**  
   Submissions from participants for the write-up competition, showcasing their solutions and methodologies for the challenges they solved.
 
 - **`README.md`**  
@@ -20,7 +20,7 @@ Welcome to the official repository for the Capture the Flag (CTF) competition ho
 
 ## 🏆 Top 15 Players
 
-Congratulations to the top performers in the CTF competition! Here are the final rankings:
+Congratulations to the top performers in the CTF competition! Here are the final rankings (14 - 16 tied on points for 15th):
 
 1. **OS1RIS**  
 2. **zeqzoq**  
