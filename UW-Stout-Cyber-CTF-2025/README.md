@@ -82,3 +82,11 @@ We welcome contributions from the community! If you have any suggestions, improv
 - [Peyton Braun](https://www.linkedin.com/in/peyton-braun/)
 - [Owen Pryga](https://www.linkedin.com/in/owen-pryga/)
 - [Kayne Whitney](https://www.linkedin.com/in/11098-415332229/)
+
+### Challenge Creators
+- [Daisy Hardwick](https://www.linkedin.com/in/daisy-hardwick/)
+- [Fletcher Meyer](https://www.linkedin.com/in/fletcher-meyer-b6a2552b6/)
+- [Jon Gutzmer](https://www.linkedin.com/in/jonathan-gutzmer/)
+- [Liam Nicholson](https://www.linkedin.com/in/liam-n-1427a1246/)
+- [Andrew Vu](https://www.linkedin.com/in/thanh-an-vu-448114241/)
+- [Andrew Rhode](https://www.linkedin.com/in/andrew-rhode-3597a120a/)
