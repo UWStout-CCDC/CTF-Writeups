@@ -6,6 +6,8 @@ Welcome to the official repository for the Capture the Flag (CTF) competitions h
 
 - **[`Inaugural-UW-Stout-CTF/`](https://github.com/UWStout-CCDC/CTF-Writeups/tree/main/Inaugural-UW-Stout-CTF)**  
   Contains all challenge write-ups created by the event organizers, challenge creators, and competition players providing detailed solutions and explanations for each challenge.
+- **[`UW-Stout Cyber CTF 2025/`](https://github.com/UWStout-CCDC/CTF-Writeups/tree/main/UW-Stout-Cyber-CTF-2025)**  
+  Contains all challenge write-ups created by the event organizers, and challenge creators.
 
 <!-- - **`Future-CTF-Events/`**  
   Placeholder for future CTF events. This directory will include resources, write-ups, and details for upcoming competitions. -->
@@ -21,6 +23,7 @@ For real-time assistance, join our [Discord server](https://discord.gg/juQpquV2E
 
 For advisor inquiries, contact:  
 **Email:** braunp9273@my.uwstout.edu
+**Email:** whitneyk7878@my.uwstout.edu
 
 ---
 
@@ -39,10 +42,11 @@ We welcome contributions from the community! If you have any suggestions, improv
 ## 🌐 LinkedIn Links
 
 ### University of Wisconsin-Stout Hosts
-- [University of Wisconsin-Stout CCDL](https://www.linkedin.com/company/uw-stout-ccdl/posts/?feedView=all)
+- [University of Wisconsin-Stout Cyber@Stout](https://www.linkedin.com/company/cyberstout/posts/?feedView=all)
 - [University of Wisconsin-Stout CyROC](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-management/cybersecurity-research-outreach-center-cyroc)
 
 ### Organizers
 - [Dr. Holly Yuan](https://www.linkedin.com/in/hollyuan2021/)
 - [Peyton Braun](https://www.linkedin.com/in/peyton-braun/)
 - [Owen Pryga](https://www.linkedin.com/in/owen-pryga/)
+- [Kayne Whitney](https://www.linkedin.com/in/11098-415332229/)
