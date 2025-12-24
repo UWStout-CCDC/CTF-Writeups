@@ -1,0 +1,14 @@
+For this challenge, it was meant to be a geolocation challenge where you also have to infer/find data based on the image context. Similar to how you would do it during an actual OSINT investigation.
+
+## Part 1:
+The way I solved this when making the challenge was to use google lens on the image, which returns similar antenna towers, some of which refer to ATT Long Lines.
+(Fun fact, the name of the challenge Skyway is actually another name for ATT Long Lines)
+
+## Part 2:
+This one involved doing research into the technical specifications for ATT Long Lines. I looked up what communication method Long Lines used, which is microwaves. I then looked up "what microwave frequency band did att long lines use" and looked around until I found it. I am aware there are specific frequencies mentioned among the results for this, namely 4, 6, and 11 GHz, however, those are not "bands" per se. Long Lines operated on a number of frequencies within C-band of the microwave spectrum, so I chose that as the answer.
+
+## Part 3:
+The prompt of this challenge talking about corrupted data is the main hint here. You could try and geolocate the site just based on the image, which I imagine is possible. That said, the intended solution was to use an Exif extractor tool to find the partial coordinates to the site. These would put you just slightly south of where the site is located if plugged into Google Maps, which you would then have to find the antenna tower in street view to determine the road it is on.
+
+Link to the location of the site:
+https://www.google.com/maps/place/43%C2%B019'29.0%22N+88%C2%B014'06.0%22W/@43.3242495,-88.2346992,3a,90y,319.42h,115.7t/data=!3m7!1e1!3m5!1sFC3D_KqegJl7MM5K0_YzFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-25.696546247578183%26panoid%3DFC3D_KqegJl7MM5K0_YzFA%26yaw%3D319.4195370079886!7i16384!8i8192!4m4!3m3!8m2!3d43.324722!4d-88.235?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D

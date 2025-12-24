@@ -1,0 +1,15 @@
+The goal of these challenges was to get you all thinking about slightly more uncommon sources of OSINT data.
+
+## You are cleared for take off! p1 and 2
+---
+In this challenge you were given a picture of a plane in a tweet.
+From this tweet, you need to find the tail number of the plane visible in the picture.
+This would allow you to go to a website, like ADSB exchange, and plug the number in to find more information about the plane.
+You also needed to take the date and time from the tweet and use that to figure out where the plane was located. This can be done through ADSB exchange for free.
+From there, I actually used Google Maps to find the same location in satellite view and zoomed in to find the gate number since airports have the gate numbers printed on the ground near them. You could also find this through tracking flight history on a website like FlightAware.
+On ADSB exchange, you can also get more details about the plane (there is a button for it), such as the model number.
+
+## You are cleared for take off! p3 and 4
+---
+In these challenge, using the information from the previous ones, you needed to find the flight history for the given date in the prompt.
+This can be done from a number of websites, I used FlightAware when making the challenge. You simply need to plug in the tail number, and look for the flight record that matches the given timestamp. You would then find the information about the airport codes and arrival/departure times in the flight information. Similar principle for the gate number, that is also visible near the airport codes and arrival/departure times.

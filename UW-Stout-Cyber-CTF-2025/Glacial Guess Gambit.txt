@@ -1,0 +1,9 @@
+I don't really have a "solution" for this challenge as it was pretty much meant to be impossible to solve. It was more of a test to see if anyone was even able to find an image with practically no information on it. The picture is located in an Arctic Research Facility in Svalbard, Norway.
+
+That being said, the only way I can really see actually solving this is to use ChatGPT, which I found out is surprisingly good at geolocation. Peyton and I were testing some stuff and he made me aware that ChatGPT was able to narrow down the location to the island the picture was taken from, Svalbard.
+
+Below is the link to the photosphere used to create the challenge along with the name of the person who uploaded the photosphere.
+
+https://www.google.com/maps/@78.9248941,11.9307897,3a,90y,43.41h,97.27t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICCsYHX0wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAPRy3c9DemlPmjarA49W9MRc3cjEV3KL7UudNcglj8lUJ1_e4P9Qi1qD6BLEXsoIaCFrV6vD8RItZhhZYReUliTB7bs2Lm0cbeH9FhjKNmzDsDBVKlV5PaYk2z6CTZLoNL40jAYsflUsvg%3Dw900-h600-k-no-pi-7.269436513538011-ya43.409000652053365-ro0-fo100!7i4160!8i2080?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D
+
+David Massey

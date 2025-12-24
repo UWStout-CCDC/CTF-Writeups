@@ -1,0 +1,5 @@
+This challenge is contingent on either recognizing the code being used or connecting the dots with the sailor theme.
+It is meant to make use of a code that isn't seen as commonly.
+
+To solve this challenge, you need to go to decode.fr and use the maritime signals code solver.
+Just plug the flags in as they are in the image and then add the `{}` chars where needed.
